@@ -1,0 +1,10 @@
+﻿<Application x:Class="DSA_Project2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DSA_Project2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <BitmapImage x:Key="MAINLOGO" 
+                     UriSource="DSA_Project2/MVVM/Services/Images/LOGO.png"/>
+    </Application.Resources>
+</Application>
